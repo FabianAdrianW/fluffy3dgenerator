@@ -2,8 +2,6 @@
 
 Interaktywny prototyp doświadczenia zakupowego dla marki kosmetyków naturalnych **Fluff** ([fluff.com.pl](https://fluff.com.pl)): użytkownik składa własnego stworka ("Fluffa") w 3D, a ten zostaje z nim na stronie i pomaga dobrać kosmetyki według nastroju.
 
-**Demo:** _(podmień na adres GitHub Pages po publikacji)_
-
 ---
 
 ## Czym to jest, a czym nie jest
